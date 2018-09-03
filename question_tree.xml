@@ -1,0 +1,213 @@
+
+<question text="Is it a body in our solar system?">
+
+	<answer useranswer="yes">
+
+		<question text="Is it a gas giant?">
+
+			<answer useranswer="yes">
+
+				<question text="Is it blue?">
+
+					<answer useranswer="yes">
+
+						<question text="Is it named after a Roman sea god?">
+
+							<answer useranswer="yes">
+
+								<guess>Neptune</guess>
+
+							</answer>
+
+							<answer useranswer="no">
+
+								<guess>Uranus</guess>
+
+							</answer>
+
+						</question>
+
+					</answer>
+
+
+					<answer useranswer="no">
+
+						<question text="Is it the proud owner of the Great Red Spot?">
+
+							<answer useranswer="yes">
+
+								<guess>Jupiter</guess>
+
+							</answer>
+
+							<answer useranswer="no">
+
+								<guess>Saturn</guess>
+
+							</answer>
+
+						</question>
+
+					</answer>
+
+				</question>
+
+			</answer>
+
+			<answer useranswer="no">
+
+				<question text="Is it closer to the Sun than Earth?">
+
+					<answer useranswer="yes">
+
+						<question text="Is named after the Roman goddess of love and beauty?">
+
+							<answer useranswer="yes">
+
+								<guess>Venus</guess>
+
+							</answer>
+
+							<answer useranswer = "no">
+
+								<guess>Mercury</guess>
+
+							</answer>
+
+						</question>
+
+					</answer>
+
+					<answer useranswer="no">
+
+						<question text = "Is it's planetary status often the center of debate?">
+
+							<answer useranswer ="yes">
+
+								<guess>Pluto</guess>
+
+							</answer>
+
+							<answer useranswer = "no">
+
+								<guess>Mars</guess>
+
+							</answer>
+
+						</question>
+
+					</answer>
+
+				</question>
+
+			</answer>
+
+		</question>
+
+	</answer>
+
+	<answer useranswer="no">
+
+		<question text = "Is it stellar-related?">
+
+			<answer useranswer = "yes">
+
+				<question text = "Does it occur at the end of a star's life span?">
+
+					<answer useranswer = "yes">
+
+						<question text="Is it characterized by an event horizon?">\
+
+							<answer useranswer ="yes">
+
+								<guess>Black Hole</guess>
+
+							</answer>
+
+							<answer useranswer = "no">
+
+								<guess>White Dwarf</guess>
+
+							</answer>
+
+						</question>
+
+					</answer>
+
+					<answer useranswer = "no">
+
+						<question text = "Is it often referred to as a 'stellar nursery'?">
+
+							<answer useranswer = "yes">
+
+								<guess>Nebula</guess>
+
+							</answer>
+
+							<answer useranswer = "no">
+
+								<guess>Constellations</guess>
+
+							</answer>
+
+						</question>
+
+					</answer>
+
+				</question>
+
+			</answer>
+
+			<answer useranswer = "no">
+
+				<question text = "Is it related to extraterrestrial life?">
+
+					<answer useranswer = "yes">
+
+						<question text = "Is it related to the advancement of extraterrestrial life?">
+
+							<answer useranswer = "yes">
+
+								<guess>Kardashev Scale</guess>
+
+							</answer>
+
+							<answer useranswer = "no">
+
+								<guess>Fermi Paradox</guess>
+
+							</answer>
+
+						</question>
+
+					</answer>
+
+					<answer useranswer = "no">
+
+						<question text="Is it the running model of the Universe's creation">
+
+							<answer useranswer = "yes">
+
+								<guess>Big Bang</guess>
+
+							</answer>
+
+							<answer useranswer = "no">
+
+								<guess>Big Crunch</guess>
+
+							</answer>
+
+						</question>
+
+					</answer>
+
+				</question>
+
+			</answer>
+
+		</question>
+
+	</answer>
+
+</question>
